@@ -860,9 +860,9 @@ span.glyphicon.agileits.mwclayouts.glyphicon-arrow-right {
     top: 2px;
 }
 .mwcagile-right {
-    padding-left: 20px;
+    padding-left: 10px;
     padding-bottom: 20px;
-	padding-right:0;
+    padding-right: 10px;
 }
 .banner-btm-agile {
     margin: 5em 0;
@@ -1116,6 +1116,7 @@ ul.tag li a:hover{
 }
 .mwcls-social-icons-1 {
     margin-top: 2em;
+    text-align: center;
 }
 .mwcagile_blog_left {
     padding-right: 0;
