@@ -1385,32 +1385,6 @@ ul.tag li a:hover{
 .mwc_agile_mail_grid input[type="submit"]:hover{
 	background:#212121;
 }
-/*-- //contact --*/
-.breadcrumb1 li span {
-    left: 0em;
-    padding-right: 1em;
-    color: #3399cc;
-}
-.breadcrumbs {
-    padding: 1.5em 0;
-    background: #38acbf;
-}
-.breadcrumb {
-    margin-bottom: 0 !important;
-	padding: 0 !important;
-	background-color: #38acbf !important;
-}
-.breadcrumb1 li {
-    font-size: 1.3em;
-    color: #999;
-}
-.breadcrumb1 li a {
-    color: #fff;
-    text-decoration: none;
-}
-.breadcrumb>.active {
-    color: #212121 !important;
-}
 /*-- icons --*/
 ul.bs-glyphicons-list li:hover {
     background: #000;
