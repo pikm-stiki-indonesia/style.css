@@ -724,7 +724,8 @@ header {
 		display:none;
 	}
 	.search-2{
-		display:block;
+		display: block!important; 
+		text-align: center;
 	}
 }
 @media screen and (max-width: 600px) { 
