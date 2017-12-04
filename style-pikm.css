@@ -723,6 +723,9 @@ header {
 	.search-1{
 		display:none;
 	}
+	.search-2{
+		display:block;
+	}
 }
 @media screen and (max-width: 600px) { 
 	.cb-slideshow li div h3 { font-size: 50px }
