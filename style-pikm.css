@@ -1105,15 +1105,11 @@ ul.tag li a:hover{
 	-moz-transition:0.5s all;
 }
 .mwcls-social-icons-1 i:hover,.mwcls-socia-1 i:hover {
-	background: transparent;
-	background:#FFF;
-	color: #38acbf;
-    box-shadow: 0px 0px 0px 1px #38acbf;
+    background: #97191d;
+    color: #ffc107;
+    box-shadow: 0px 0px 0px 1px #97191d;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-    -moz-transition: 0.5s all;
 }
 .mwcls-social-icons-1 a {
     display: inline-block;
